@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(58, 13, 58);
+    font-family: impac;
+}
+header {
+    text-align: center;
+    color: white;
+}
+section {
+    padding: 10px;
+    background-color: white;
+    width: 720px;
+    height: 200px;
+    border-radius: 10px;
+    margin: auto;
+}
+#Numeros {
+    font-family: impac;
+}
+#botao {
+    background-color: rgb(212, 144, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+}
+#res {
+    text-align: center;
+    margin-top: 20px;
+}
